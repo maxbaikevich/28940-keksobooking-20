@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Максим Байкевич](https://up.htmlacademy.ru/javascript/20/user/28940).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
